@@ -15,6 +15,8 @@ public class AopMain {
 		p.add(10,20 );
 		System.out.println("=======================");
 		p.multiply(10, 20);
+		
+
 	}
 
 }
